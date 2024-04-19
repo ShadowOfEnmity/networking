@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Salary</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Total income</th>
+        <th>Total tax</th>
+        <th>Total profit</th>
+    </tr>
+    <tr>
+        <td>$total_income</td>
+        <td>$total_tax</td>
+        <td>$total_profit</td>
+    </tr>
+</table>
+</body>
+</html>
